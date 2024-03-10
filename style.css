@@ -1,5 +1,62 @@
+h1 {
+  text-align: center;
+}
+nav{
+  align-self: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: auto;
+}
+nav a{
+ position: relative;
+ left: 350px;
+ align-self: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p#Lorem{
+  position: relative;
+  left: 200px;
+width: 800px;
+text-align: center;
+font-size: small;
+}
+p#ipsum{
+  position: relative;
+  left: 200px;
+  width: 800px;
+text-align: center;
+font-size: small;
+}
+
+
+
+
+figcaption{
+  font-size: small ;
+  text-align: center;
+}
+
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
 }
+
+div{
+display: inline-block;
+background-color: red;
+text-align:center;
+width:25%;
+float: left;
+}
+
